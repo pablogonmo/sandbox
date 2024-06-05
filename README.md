@@ -6,3 +6,12 @@ Describe here all the isntructions to run the code appropriately.
 
 #### Disclaimer ####
 Highlight any announcements to bear in mind.
+
+#### License ####
+Add product licenses and limitations.
+
+#### Customer support ####
+Supported features and customer services 
+
+#### Contact ####
+Give me your feedback or rech me out for any other business at <email>
